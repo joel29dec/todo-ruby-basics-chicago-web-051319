@@ -15,12 +15,12 @@ def greeting(name, greeting)
   greeting
 end
 
-def return_a_value(input)
-  input
+def return_a_value(call)
+  call
 end
 
-def last_evaluated_value(input)
-  input
+def last_evaluated_value(call)
+  call
 end
 
 def pizza_party(topping = "cheese")
