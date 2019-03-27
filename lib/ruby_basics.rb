@@ -16,11 +16,11 @@ def greeting(name, greeting)
 end
 
 def return_a_value(input)
-  return_a_value
+  input
 end
 
 def last_evaluated_value(input)
-  last_evaluated_value
+  input
 end
 
 def pizza_party(topping = "cheese")
