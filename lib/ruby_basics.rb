@@ -15,11 +15,11 @@ def greeting(name, greeting)
   greeting
 end
 
-def return_a_value()
+def return_a_value(input)
   return_a_value
 end
 
-def last_evaluated_value()
+def last_evaluated_value(input)
   last_evaluated_value
 end
 
